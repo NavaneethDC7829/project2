@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-05T18:19:04 IST" name="Default suite" finished-at="2024-12-05T18:19:10 IST" duration-ms="6006">
+    <groups>
+    </groups>
+    <test started-at="2024-12-05T18:19:04 IST" name="Default test" finished-at="2024-12-05T18:19:10 IST" duration-ms="6006">
+      <class name="apiscripts.login_shopper">
+        <test-method signature="logic()[pri:0, instance:apiscripts.login_shopper@4a7f959b]" started-at="2024-12-05T18:19:04 IST" name="logic" finished-at="2024-12-05T18:19:10 IST" duration-ms="5944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logic -->
+      </class> <!-- apiscripts.login_shopper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
